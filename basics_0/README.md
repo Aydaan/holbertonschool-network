@@ -1,0 +1,1 @@
+This project covers the basics of networking, including the OSI model, LAN, WAN, IP addresses, TCP, UDP, ports, and ICMP.
